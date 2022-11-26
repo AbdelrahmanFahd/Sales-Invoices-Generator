@@ -1,12 +1,10 @@
 package main.controller;
-
 import main.model.InvoiceHeader;
 import main.model.InvoiceLine;
 import main.model.InvoiceTableModel;
 import main.view.InvoiceFrame;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.StringUtils;
-
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.event.ActionEvent;
